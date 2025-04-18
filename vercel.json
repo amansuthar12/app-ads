@@ -1,0 +1,9 @@
+{
+    "rewrites": [
+      {
+        "source": "/app-ads.txt",
+        "destination": "/app-ads.txt"
+      }
+    ]
+  }
+  
